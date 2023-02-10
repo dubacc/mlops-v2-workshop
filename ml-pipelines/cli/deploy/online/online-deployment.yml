@@ -1,5 +1,5 @@
 $schema: https://azuremlschemas.azureedge.net/latest/managedOnlineDeployment.schema.json
-name: blue
+name: blue-akw
 endpoint_name: taxi-online-endpoint
 model: azureml:taxi-model@latest
 instance_type: Standard_DS1_v2
